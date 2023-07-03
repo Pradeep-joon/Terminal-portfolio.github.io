@@ -55,8 +55,8 @@ banner = [
     "   ██        ██   ██   ██     ██  ███████   ████████  ████████  ██          ███████   ██████    ██████   ██     ███     ",
 
 "<br>",
-    '<span class="color2">Welcome, Hope you are with the Invite</span>',
-    "<span class=\"color2\">For avil commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
+    '<span class="color2">Welcome,  🚀 Command-Line Coolness meets Creativity! Explore my Portfolio in Terminal Style! 🎉</span>',
+    "<span class=\"color2\">For avail commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
     // '<span class="color2"></span>',
     "<br>",
 ]
